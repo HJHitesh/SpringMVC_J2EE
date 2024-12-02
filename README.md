@@ -26,19 +26,10 @@ Before you begin, ensure you have met the following requirements:
 
 ##Screenshots
 
-### Home Page
+![delete](https://github.com/HJHitesh/SpringMVC_J2EE/blob/master/src/main/webapp/WEB-INF/images/delete.png))
+![list](https://github.com/HJHitesh/SpringMVC_J2EE/blob/master/src/main/webapp/WEB-INF/images/list-employee.png)
+![Search](https://github.com/HJHitesh/SpringMVC_J2EE/blob/master/src/main/webapp/WEB-INF/images/search.png)
+![Update](https://github.com/HJHitesh/SpringMVC_J2EE/blob/master/src/main/webapp/WEB-INF/images/update-1.png)
 
-![](https://github.com/HJHitesh/SpringMVC_J2EE/blob/master/src/main/webapp/WEB-INF/images/delete.png))
 
-### Add Employee Form
-This is the form used to add a new employee.
-![Add Employee](src/main/resources/static/screenshots/add-employee.png)
-
-### Search Employee Form
-You can search employees by name or department.
-![Search Employee](src/main/resources/static/screenshots/search-employee.png)
-
-### Update Employee Form
-This is the form for updating an existing employee's details.
-![Update Employee](src/main/resources/static/screenshots/update-employee.png)
 
