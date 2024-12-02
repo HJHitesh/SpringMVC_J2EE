@@ -27,8 +27,8 @@ Before you begin, ensure you have met the following requirements:
 ##Screenshots
 
 ### Home Page
-This is the home page where all the employees are listed.
-![Home Page](src/main/resources/static/screenshots/home.png)
+
+![Home Page]([src/main/resources/static/screenshots/home.png](https://github.com/HJHitesh/SpringMVC_J2EE/blob/master/src/main/webapp/WEB-INF/images/delete.png))
 
 ### Add Employee Form
 This is the form used to add a new employee.
